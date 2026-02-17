@@ -1,8 +1,8 @@
-## Hi there, I'm Shashant Pandit Charles! 👋
+## Hi there, I'm Shashant Pandit! 👋
 
 🌍 **Based in Nagpur, India** | 💡 **Passionate about building scalable and user-focused web applications**
 
-*MERN Stack Developer | React Specialist | Full-Stack Engineer | SaaS Builder | UI/UX Focused | Learning AI Integration*
+*MERN Stack Developer | React Specialist | Full-Stack Engineer | UI/UX Focused | Learning AI Integration*
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves building seamless, user-friendly applications. I work across the full development lifecycle — from UI design and frontend development to backend architecture, authentication systems, and deployment.
 
